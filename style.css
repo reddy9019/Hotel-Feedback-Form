@@ -1,0 +1,32 @@
+h1{
+    color:red;
+    ;
+}
+p{
+    color: green;
+}
+header{
+    background-color: lightgray;
+}
+form{
+    background-color: rgba(89, 177, 206, 0.21);
+}
+input{
+    background-color: lightyellow;
+}
+legend{
+    color:rgb(180, 60, 140)
+}
+html{
+    background-color: lightblue;
+}
+textarea{
+    background-color: lightyellow;
+}
+select{
+    background-color: lightyellow;
+}
+button{
+    background-color: rgb(183, 183, 154);
+    size-adjust: auto;
+}
